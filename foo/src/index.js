@@ -1,0 +1,1 @@
+console.log("Hiiiiiiiiiiiiiii, aprendiendo webpack, aun no tenemos config del webpack :(")
